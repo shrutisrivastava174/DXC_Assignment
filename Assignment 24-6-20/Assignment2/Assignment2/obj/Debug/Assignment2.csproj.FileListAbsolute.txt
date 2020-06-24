@@ -1,0 +1,7 @@
+C:\Users\ssrivasta219\DXC\C#\Assignment 24-6-20\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\ssrivasta219\DXC\C#\Assignment 24-6-20\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\ssrivasta219\DXC\C#\Assignment 24-6-20\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\ssrivasta219\DXC\C#\Assignment 24-6-20\Assignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\ssrivasta219\DXC\C#\Assignment 24-6-20\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\ssrivasta219\DXC\C#\Assignment 24-6-20\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\ssrivasta219\DXC\C#\Assignment 24-6-20\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
